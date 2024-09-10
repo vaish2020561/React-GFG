@@ -1,27 +1,28 @@
 export const projects = [
     {
-        title: "AIRbnb Clone Project",
-        subtitle: "MERN Stack",
+        title: "Food ordering Project",
+        subtitle: "React",
+         link: "https://food-ordering-3f8b1.web.app/",
         description:
-          "I undertook a project to analyze and optimize an Airbnb listing to maximize occupancy and revenue. Leveraging data-driven insights and market research, I implemented strategic changes to enhance the listing's appeal and performance.",
-        image: "https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg",
-        link: "https://reactbootcamp.com",
+          "Craving a delicious meal but don’t want to leave the comfort of your home? Look no further than Girls Kitchen, your ultimate food ordering companion. With our app, you can explore a wide range of cuisines from local favorites to gourmet delights, all from the convenience of your smartphone",
+        image: "https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-many-different-kinds-of-dishes-and-foods-image_2951715.jpg",
+
       },
       {
-        title: "DevChat",
+        title: "Netflix",
         subtitle: "React and Firebase",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "https://strapi.dhiwise.com/uploads/react_chat_application_OG_Image_1f05e14eb9.webp",
-        link: "https://jsbootcamp.com",
+               "Netflix is one of the world's leading entertainment services with 278 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbQyJTUr1KDyDiLpy-QYU-NqoHqh7zCp1pQ&s",
+         link: "https://netflix-gpt-d4b0b.web.app"
       },
       {
         title: "Epic Todo App",
         subtitle: "React Hooks",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "ToDo is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate.",
         image: "https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg",
-        link: "https://pythonbootcamp.com",
+        //  link: "https://food-ordering-3f8b1.web.app/"
       },
       {
         title: "Quizz App",
@@ -29,7 +30,7 @@ export const projects = [
         description:
           " This app is designed to provide an interactive and engaging quiz experience, allowing users to participate in quizzes, answer questions on various topics, and receive feedback on their performance.",
         image: "https://repository-images.githubusercontent.com/182525249/aadd7a80-54fe-11eb-9872-ccd06b8789b6",
-        link: "https://pythonbootcamp.com",
+        //  link: "https://food-ordering-3f8b1.web.app/"
       },
 ];
 
@@ -42,39 +43,33 @@ export const projects = [
   'TypeScript',
   'UI/UX Design',
   'Version Control',
-  'Node.js',
-  'Express.js',
-  'Mongo DB',
   'Authentication and Authorization',
-  'API Integration',
-  'Testing',
-  'GitLab',
-  'AWS'
+  'API Integration'
 ];
 
  export const testimonials = [
   {
     quote: "Working with JavaScript and React.js has been incredibly rewarding. It's amazing how powerful these technologies can be.",
     image: "https://t4.ftcdn.net/jpg/05/56/30/03/360_F_556300316_yzdmBXMPGTslQfvuNJMbkC8x2yBbcp0u.jpg",
-    name: "John Doe",
-    company: "ABC Corp"
+    name: "Saurabh Pandey",
+    company: "Global Logic"
   },
   {
     quote: "HTML and CSS are the foundation of web development. They allow me to create beautiful and responsive designs easily.",
     image: "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user",
-    name: "Jane Smith",
-    company: "XYZ Inc"
+    name: "Tushyup",
+    company: "CDAC "
   },
   {
     quote: "Bootstrap and Tailwind CSS have revolutionized how I approach styling. They make it so much faster and easier to create modern UIs.",
     image: "https://i.pinimg.com/originals/1d/a9/44/1da944eeeea58e27db560ba9abd1948e.jpg",
-    name: "Michael Johnson",
-    company: "123 Web Solutions"
+    name: "Kanika ",
+    company: "Google"
   },
   {
     quote: "Bootstrap and Tailwind CSS have revolutionized how I approach styling. They make it so much faster and easier to create modern UIs.",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfltomQi7jUNZHNSv6lRfniUaMwyEJQiXFoNYTBuKqqRzEcmzx0WWDSlcOQChsDvnZVM&usqp=CAU",
-    name: "Michael Jackson",
-    company: "123 Web Solutions"
+    name: "Mayank ",
+    company: "Onelogica"
   }
 ];
